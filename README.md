@@ -19,5 +19,6 @@ I'm a Web Developer student at FPT Polytechnic, constantly building things and w
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghghgh464&show_icons=true&theme=tokyonight&v=1)](https://github.com/ghghgh464)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghghgh464&layout=compact&theme=tokyonight&v=1)](https://github.com/ghghgh464)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghghgh464&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
