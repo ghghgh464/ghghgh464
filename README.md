@@ -22,3 +22,10 @@ I'm a Web Developer student at FPT Polytechnic, constantly building things and w
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghghgh464&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghghgh464/ghghgh464/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghghgh464/ghghgh464/output/github-snake.svg">
+    <img alt="github snake" src="https://raw.githubusercontent.com/ghghgh464/ghghgh464/output/github-snake.svg">
+  </picture>
+</div>
