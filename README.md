@@ -8,3 +8,16 @@ I'm a Web Developer student at FPT Polytechnic, constantly building things and w
 - 💬 Ask me about: Frontend design, setting up WordPress/WooCommerce sites, or managing projects using Agile.
 - 📫 How to reach me: You can catch me hanging out on [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/941719337713143958)
 - ⚡ Fun fact: When I'm not coding, I'm usually waking up at 8 AM for a morning run, swimming if the weather is hot!, dropping into Valorant, or listening to The Wekend and Wxrdie.
+- ---
+
+### 🛠️ My Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,laravel,wordpress,figma&perline=8" />
+  </a>
+</p>
+
+### 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghghgh464&show_icons=true&theme=tokyonight&v=1)](https://github.com/ghghgh464)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghghgh464&layout=compact&theme=tokyonight&v=1)](https://github.com/ghghgh464)
